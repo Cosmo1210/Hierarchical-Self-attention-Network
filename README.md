@@ -1,4 +1,4 @@
 # Hierarchical-Self-attention-Network
-original code for paper Hierarchical Self-attention Network for Facial Landmark Detection
+original codes for paper Hierarchical Self-attention Network for Facial Landmark Detection
 
-codes will release later.
+codes are being organized and waiting for the license to open access, will release later after getting license.
